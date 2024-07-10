@@ -1,0 +1,6 @@
+config-version: 1
+
+prefix: "§8[§6§lCreatorBingo§8] §r"
+
+api-key: placeholder
+api-url: https://privategame.bingomc.net/api/partner
